@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">мои сайты</a>
+    </header>
+    <main>
+      <h1>Пархоменко Артём</h1>
+      <ul>
+        <li>люблю делать из бумаги фигурки</li>
+        <li>катаюсь на самокате</li>
+        <li>делаю сайты</li>
+      </ul>
+      <img class="jhg" src="https://img.freepik.com/premium-vector/domain-registration-communication-search-engine-optimization-landing-page-template-web-page_773844-779.jpg?semt=ais_hybrid&w=740&q=80" width="900px" height="600x"/>
+      <img class="jhg" src="https://media.istockphoto.com/id/490345786/ru/фото/ребенок-езда-scooter-активный-спорт-детей.jpg?s=612x612&w=0&k=20&c=d_GmuOb4FhJysioF9AKR6b4XlcVF_eK-XbURIdBC9jU=" width="500px" height="350x"/>
+      <img class="jhg" src="https://cdn-edge.kwork.ru/pics/t3/23/43772668-688cc3c733a42.jpg" width="500px" height="350px"/>
+      <img class="jhg" src="https://i.pinimg.com/originals/6c/3a/0a/6c3a0aed4da58221952236ac3a9d420b.png?nii=tt" width="500px" height="350x"/>"
+    </main>
+    <footer>
+
+    </footer>
+  </body>
+</html>
